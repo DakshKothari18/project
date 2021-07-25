@@ -1,0 +1,22 @@
+.form-select,
+.input-group {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.form-check {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 10%;
+}
+
+.jumbotron {
+    background-color: gray;
+    padding-bottom: 50%;
+}
+
+.btn {
+    margin-top: 1.5%;
+    float: right;
+    margin-bottom: 1.5%;
+}
